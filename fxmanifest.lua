@@ -5,7 +5,7 @@ name 'Taxi_System'
 description 'Taxi System'
 author 'YoshiTv'
 version '1.0'
-discord 'https://discord.gg/pGP37hb5rF'
+discord 'https://discord.gg/v73eQpGp5b'
 
 shared_script {
     '@es_extended/imports.lua',
